@@ -1,0 +1,15 @@
+#Movie basic CRUD creating can be instantiated and then saved
+#Movie basic CRUD creating can be created with a hash of attributes
+#Movie basic CRUD creating can be created in a block when no args are passed
+#Movie basic CRUD creating can be created in a block
+#Movie basic CRUD reading can get the first item in the database
+#Movie basic CRUD reading can get the last item in the databse
+#Movie basic CRUD reading can get size of the database
+#Movie basic CRUD reading can retrive the first item from the database by id
+#Movie basic CRUD reading can retrieve from the database using different attributes
+#Movie basic CRUD reading can use a where clause and be sorted
+#Movie basic CRUD updating can be found, updated, and saved
+#Movie basic CRUD updating can be updated using #update
+#Movie basic CRUD updating can update all records at once
+#Movie basic CRUD destroying can destroy a single item
+#Movie basic CRUD destroying can destroy all items at once
